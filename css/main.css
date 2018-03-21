@@ -1117,10 +1117,10 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 92px;
-	height: 15px;
-	background: url("../images/divein.jpg") no-repeat center;
-	background-size: 92px 15px;
+	width: 125px;
+	height: 30px;
+	background: url("../images/divein1.jpg") no-repeat center;
+	background-size: 125px 30px;
 }
 
 /**
