@@ -182,7 +182,7 @@ span.divider.center {
 
 
 /* --- Preloader CSS Starts ---*/
-/* #tt-preloader {
+#tt-preloader {
 	background: #FFF;
 	bottom: 0;
 	left: 0;
@@ -190,8 +190,8 @@ span.divider.center {
 	right: 0;
 	top: 0;
 	z-index: 9999;
-} */
-/* #pre-status,
+}
+#pre-status,
 .preload-placeholder {
 	background-image: url(../images/preloader.gif);
 	background-position: center;
@@ -209,7 +209,7 @@ span.divider.center {
 	margin: 0;
 	text-align: center;
 	top: 65%;
-}  */
+} 
 /* --- Preloader CSS Ends ---*/
 
 
