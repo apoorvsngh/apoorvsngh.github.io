@@ -905,7 +905,7 @@ section {
 
 
 /* --- Resume Section CSS Starts --- */
-#resume {
+/* #resume {
 	background-color: #ffffff;
 	color: #000000;
   }
@@ -996,12 +996,12 @@ section {
 	  top: 0;
 	  width: 1px;
 	  z-index: 0;
-  }
+  } */
   /* --- Resume Section CSS Ends --- */
 
 
 /* --- Certification Section CSS Starts --- */
-/* #certification {
+#certification {
   background-color: #ffffff;
   color: #171717;
 }
@@ -1085,7 +1085,7 @@ section {
 	top: 0;
 	width: 1px;
 	z-index: 0;
-} */
+}
 /* --- Certification Section CSS Ends --- */
 
 
@@ -1095,7 +1095,7 @@ section {
 	padding-bottom: 50px;
 }
 #download-resume {
-	background-color: #000;
+	background-color: rgb(255, 255, 255);
 }
 #download-resume .description {
 	font-family: 'Dancing Script', sans-serif;
