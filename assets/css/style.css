@@ -980,7 +980,7 @@ section {
 	  table-layout: fixed;
 	  width: 100%;
   }
-  #resume .description {
+  .resume .description {
 	font-family: 'Dancing Script', sans-serif;
 	font-size: 26px;
   color: #f31205;
