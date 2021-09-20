@@ -904,6 +904,95 @@ section {
 /* --- Experience Section CSS Ends --- */
 
 
+/* --- Resume Section CSS Starts --- */
+#resume {
+	background-color: #ffffff;
+	color: #171717;
+  }
+  #resume hr {
+	  width: 30px;
+	  margin: 0px;
+	  padding: 0px;
+	  margin-top: -30px;
+	  margin-left: auto;
+	  margin-right: auto;
+	  border-color: transparent transparent #cccccc transparent;
+	  border-style: solid;
+	  border-width: 30px;
+  }
+  .resume-timeline .programe {
+	  font-size: 20px;
+	  font-weight: 600;
+	  padding-bottom: 12px;
+	  color: #f31205;
+  }
+  .resume-timeline .university {
+	  font-size: 16px;
+	  font-weight: 400;
+  }
+  .resume-timeline .col-left {
+	  text-align: right;
+	  margin-right: 30px;
+  }
+  .resume-timeline .col-right {
+	  text-align: left;
+	  margin-left: 30px;
+  }
+  .resume-timeline .duration {
+	  font-size: 20px;
+	  font-weight: 600;
+	  padding-bottom: 12px;
+	  -webkit-transition: all 0.3s ease-in-out;
+	  -moz-transition: all 0.3s ease-in-out;
+	  -o-transition: all 0.3s ease-in-out;
+	  transition: all 0.3s ease-in-out;
+  }
+  .resume-timeline .resume:hover .divider {
+	  background-color: #f31205;
+	  color: #fff;
+  }
+  .resume-timeline .resume:hover .duration {
+	  color: #f31205;
+  }
+  .resume-timeline .row {
+	  padding-bottom: 60px;
+  }
+  .resume-timeline .divider {
+	  float: right;
+	  margin: -6px -35px 0 0;
+	  color: #000;
+	  text-align: center;
+	  background-color: #cccccc;
+	  border-radius: 20px;
+	  height: 40px;
+	  width: 40px;
+	  padding-top: 10px;
+	  -webkit-transition: all 0.3s ease-in-out;
+	  -moz-transition: all 0.3s ease-in-out;
+	  -o-transition: all 0.3s ease-in-out;
+	  transition: all 0.3s ease-in-out;
+  }
+  .resume-timeline {
+	  border-collapse: collapse;
+	  border-spacing: 0;
+	  display: table;
+	  position: relative;
+	  table-layout: fixed;
+	  width: 100%;
+  }
+  .resume-timeline:before {
+	  background-color: #cccccc;
+	  bottom: 0;
+	  content: "";
+	  left: 50%;
+	  position: absolute;
+	  top: 0;
+	  width: 1px;
+	  z-index: 0;
+  }
+  /* --- Resume Section CSS Ends --- */
+
+
 /* --- Certification Section CSS Starts --- */
 #certification {
   background-color: #ffffff;
